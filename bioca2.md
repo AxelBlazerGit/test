@@ -62,3 +62,24 @@ The study of protein structures has revolutionized fields such as genetics, bioc
 
 Further research on protein dynamics and interactions continues to provide valuable insights into biological processes and disease mechanisms. The role of proteins in cellular processes highlights their importance in maintaining life, and their structural complexity makes them one of the most fascinating topics in modern biology. As science advances, a deeper understanding of proteins will undoubtedly lead to innovative solutions in health and disease treatment.
 
+---
+
+# References
+
+1. Alberts, B., Johnson, A., Lewis, J., Raff, M., Roberts, K., & Walter, P. (2002). Molecular Biology of the Cell. Garland Science.
+
+2. Berg, J. M., Tymoczko, J. L., & Stryer, L. (2015). Biochemistry. W. H. Freeman.
+
+3. Branden, C., & Tooze, J. (1999). Introduction to Protein Structure. Garland Science.
+
+4. Nelson, D. L., & Cox, M. M. (2017). Lehninger Principles of Biochemistry. W. H. Freeman.
+
+5. Voet, D., Voet, J. G., & Pratt, C. W. (2016). Fundamentals of Biochemistry: Life at the Molecular Level. Wiley.
+
+6. Kessel, A., & Ben-Tal, N. (2011). Introduction to Proteins: Structure, Function, and Motion. CRC Press.
+
+7. Fersht, A. (1999). Structure and Mechanism in Protein Science. W. H. Freeman.
+
+8. Petsko, G. A., & Ringe, D. (2004). Protein Structure and Function. Oxford University Press.
+
+
